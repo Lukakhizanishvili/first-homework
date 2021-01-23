@@ -44,5 +44,29 @@ li {
  /* daiwko informaciuli seqciis sheeqmna */
 
  .gori-main{
-     width: 350px;
+    width: 350px;
+    padding: 0px 0px 10px 10px;
  }
+ .back-ground{
+     background-color: #DCE1E3;
+     margin-top: 10px;
+ }
+ .first-div{
+     display: flex;
+     justify-content: space-between;
+     
+ }
+
+.title{
+    font-size: 20px;
+    color: #07457b;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.paragraf{
+    width: 700px;
+    margin: 0px 10px 0px 0px;
+    line-height: 25px;
+}
