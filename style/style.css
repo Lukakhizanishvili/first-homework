@@ -70,3 +70,8 @@ li {
     margin: 0px 10px 0px 0px;
     line-height: 25px;
 }
+.read{
+    display: flex;
+    align-items: flex-end;
+    color: #283747;
+}
