@@ -1,0 +1,18 @@
+body{
+    background-color: #283747;
+}
+
+header{
+    background-color: #004E7C;
+}
+.container{
+    width: 1127px;
+    margin: 0 auto;
+}
+.d-flex{
+    display: flex;
+    justify-content:space-around;;
+}
+.navbar-li{
+    color: blanchedalmond;
+}
