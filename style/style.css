@@ -9,6 +9,7 @@ header{
 li {
     display: inline-block;
 }
+/* daiwko navigaciis sheqmna */
 .navbar{
     display: inline-block;
     vertical-align: middle;
@@ -39,4 +40,9 @@ li {
 .navbar-li:hover{
     transform:scale(1.5);
     color:rgb(19, 17, 17);
+ }
+ /* daiwko informaciuli seqciis sheeqmna */
+
+ .gori-main{
+     width: 350px;
  }
