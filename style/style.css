@@ -5,14 +5,28 @@ body{
 header{
     background-color: #004E7C;
 }
+
+li {
+    display: inline-block;
+}
+.navbar{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 132px;
+}
 .container{
     width: 1127px;
     margin: 0 auto;
 }
-.d-flex{
-    display: flex;
-    justify-content:space-around;;
+
+.icon{
+    width: 100px;
+    display: inline-block;
+    vertical-align: middle;
 }
+
 .navbar-li{
     color: blanchedalmond;
+    display: inline-block;
+    padding: 0 50px;
 }
