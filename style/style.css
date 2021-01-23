@@ -49,9 +49,9 @@ li {
  }
  .back-ground{
      background-color: #DCE1E3;
-     margin-top: 10px;
+     margin-top: 5px;
  }
- .first-div{
+ .div{
      display: flex;
      justify-content: space-between;
      
