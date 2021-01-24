@@ -119,3 +119,14 @@ li {
     transform: scale(1.2);
     border-radius: 64px;
 }
+/* start video wraper section */
+.video-box{
+    width: 500px;
+    height: 300px;
+    background-color: white;
+}
+.video-wraper{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
