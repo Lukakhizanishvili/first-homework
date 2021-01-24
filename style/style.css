@@ -77,3 +77,15 @@ li {
     padding: 10px;
     margin: 0px 10px 10px 0px;
 }
+
+/* start new section */
+
+.wraper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.wraper img{
+    width:350px;
+
+}
