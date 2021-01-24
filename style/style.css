@@ -89,6 +89,10 @@ li {
 .wraper img{
     width: 350px;
     border-radius: 36px;
+    transition-property: all;
+    transition-delay: 0.5s;
+    transition-timing-function: initial;
+    transition-duration: 1s;
 }
 .wraper h3{
     display: flex;
@@ -108,7 +112,10 @@ li {
     background: #4d4e4e;
     margin: 5px;
     border-radius: 36px;
+   
+
 }
 .box:hover img{
     transform: scale(1.2);
+    border-radius: 64px;
 }
