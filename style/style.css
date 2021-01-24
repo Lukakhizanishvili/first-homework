@@ -124,7 +124,7 @@ li {
 .video-box{
     width: 500px;
     height: 300px;
-    background-color: #283747;
+    background-color: #932432;
 }
 .video-wraper{
     display: flex;
@@ -152,9 +152,47 @@ li {
 /* startin footer */
 .social-links{
     display: flex;
-    justify-content: space-around;
-    padding: 30px 200px;
+    justify-content: space-between;
+    padding: 30px 587px 10px 38px;
 }
 .social-icons{
     font-size: 30px;
+}
+
+.fb-style{
+    opacity: 0.5;
+    transition: all 0.2s 0.2s;
+}
+
+.fb-style:hover{
+    opacity: 2;
+    color: blue;
+    transform: scale(1.2);
+}
+.insta-style{
+    opacity: 0.5;
+    transition: all 0.2s 0.2s;
+}
+.insta-style:hover{
+    opacity: 2;
+    color:#DD2A7B ;
+    transform: scale(1.2);
+}
+.linkedin-style{
+    opacity: 0.5;
+    transition: all 0.2s 0.2s;
+}
+.linkedin-style:hover {
+    opacity: 2;
+    color: #0E76A8 ;
+    transform: scale(1.2);
+}
+.yb-style{
+    opacity: 0.5;
+    transition: all 0.2s 0.2s;
+}
+.yb-style:hover {
+    opacity: 2;
+    color: #E62117 ;
+    transform: scale(1.2);
 }
