@@ -143,3 +143,8 @@ li {
     width: 100%;
     height: 100%;
 }
+.light-blu-background{
+    background-color: #932432;
+    border-radius: 36px;
+    margin-top: 15px;
+}
